@@ -1,1 +1,24 @@
 /* Start coding here */
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+main{
+    background-color: black;
+    border: 16px solid lightgray;
+    width: 100vw;
+    padding: 16px;
+    height: 100vh;
+}
+.container{
+    background-color: khaki;
+    border: 24px solid crimson;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+}
+.container h1 {
+    padding: 30px;
+    font-size: 72px;
+}
