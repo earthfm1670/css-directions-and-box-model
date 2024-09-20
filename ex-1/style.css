@@ -12,3 +12,20 @@
   font-weight: 800;
   color: lightslategray;
 }
+
+.contentcontainer {
+  border: 1px solid black;
+  height: 85vh;
+}
+
+.box1,
+.box2 {
+  border: 3px solid black;
+  width: 40vw;
+  height: 30vh;
+  margin: 20px;
+}
+
+img {
+  width: 70%;
+}
