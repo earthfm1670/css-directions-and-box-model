@@ -1,1 +1,14 @@
-/* Start coding here */
+.title-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  height: 10vh;
+  background-color: lightblue;
+}
+
+.travelblog {
+  padding: 30px;
+  font-size: 25px;
+  font-weight: 800;
+  color: lightslategray;
+}
