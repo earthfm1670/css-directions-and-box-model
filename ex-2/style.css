@@ -1,1 +1,16 @@
-/* Start coding here */
+.box-1 {
+  background-color: khaki;
+  border: 16px solid lightgrey;
+  height: 400px;
+}
+
+.box-2 {
+  border: 16px solid black;
+  height: 368px;
+}
+
+.box-3 {
+  border: 24px solid crimson;
+  height: 320px;
+  text-align: center;
+}
