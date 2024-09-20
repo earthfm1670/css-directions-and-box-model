@@ -14,7 +14,6 @@
 }
 
 .contentcontainer {
-  border: 1px solid black;
   height: 85vh;
 }
 
@@ -24,6 +23,7 @@
   width: 40vw;
   height: 30vh;
   margin: 20px;
+  padding: 10px;
 }
 
 img {
